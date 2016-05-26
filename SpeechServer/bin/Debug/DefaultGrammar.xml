@@ -1,0 +1,26 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootLevel"
+ xmlns="http://www.w3.org/2001/06/grammar">
+
+  <rule id="rootLevel">
+    <ruleref uri="#withoutMove" />
+  </rule>
+
+
+  <rule id="withoutMove">
+    <one-of>
+      <item> stop </item>
+      <item> back </item>
+      <item> left </item>
+      <item> forward </item>
+      <item> right </item>
+      <item> to the center </item>
+      <item> to the top right corner </item>
+      <item> to the top left corner </item>
+      <item> to the bottom right corner </item>
+      <item> to the bottom left corner </item>
+      <item> reset </item>
+    </one-of>
+  </rule>
+
+
+</grammar>

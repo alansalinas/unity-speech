@@ -1,0 +1,8 @@
+c:\users\alan\documents\visual studio 2015\Projects\SpeechServer\UnitySpeechTester\bin\Debug\UnitySpeechTester.exe.config
+c:\users\alan\documents\visual studio 2015\Projects\SpeechServer\UnitySpeechTester\bin\Debug\UnitySpeechTester.exe
+c:\users\alan\documents\visual studio 2015\Projects\SpeechServer\UnitySpeechTester\bin\Debug\UnitySpeechTester.pdb
+c:\users\alan\documents\visual studio 2015\Projects\SpeechServer\UnitySpeechTester\obj\Debug\UnitySpeechTester.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\SpeechServer\UnitySpeechTester\obj\Debug\UnitySpeechTester.exe
+c:\users\alan\documents\visual studio 2015\Projects\SpeechServer\UnitySpeechTester\obj\Debug\UnitySpeechTester.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\SpeechServer\UnitySpeechTester\bin\Debug\SpeechModule.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\SpeechServer\UnitySpeechTester\bin\Debug\SpeechModule.pdb

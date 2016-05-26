@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<RuleDictionary>
+  <Rule id="0">
+    <SpokenInput>forward</SpokenInput>
+    <ActionMethod>MoveForward</ActionMethod>
+  </Rule>
+
+  <Rule id="1">
+    <SpokenInput>back</SpokenInput>
+    <ActionMethod>MoveBack</ActionMethod>
+  </Rule>
+
+  <Rule id="2">
+    <SpokenInput>left</SpokenInput>
+    <ActionMethod>MoveLeft</ActionMethod>
+  </Rule>
+
+  <Rule id="3">
+    <SpokenInput>right</SpokenInput>
+    <ActionMethod>MoveRight</ActionMethod>
+  </Rule>
+
+  <Rule id="4">
+    <SpokenInput>reset</SpokenInput>
+    <ActionMethod>ResetPosition</ActionMethod>
+  </Rule>
+
+  <Rule id="5">
+    <SpokenInput>to the center</SpokenInput>
+    <ActionMethod>ResetPosition</ActionMethod>
+  </Rule>
+
+  <Rule id="6">
+    <SpokenInput>to the top right corner</SpokenInput>
+    <ActionMethod>CornerTopRight</ActionMethod>
+  </Rule>
+
+  <Rule id="7">
+    <SpokenInput>to the top left corner</SpokenInput>
+    <ActionMethod>CornerTopLeft</ActionMethod>
+  </Rule>
+
+  <Rule id="8">
+    <SpokenInput>to the bottom right corner</SpokenInput>
+    <ActionMethod>CornerBottomRight</ActionMethod>
+  </Rule>
+
+  <Rule id="9">
+    <SpokenInput>to the bottom left corner</SpokenInput>
+    <ActionMethod>CornerBottomLeft</ActionMethod>
+  </Rule>
+
+</RuleDictionary>
